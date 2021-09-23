@@ -1,0 +1,16 @@
+C:\Users\strau\source\repos\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+C:\Users\strau\source\repos\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+C:\Users\strau\source\repos\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+C:\Users\strau\source\repos\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+C:\Users\strau\source\repos\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+C:\Users\strau\source\repos\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.AssemblyReference.cache
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.Form1.resources
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.GenerateResource.cache
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
+C:\Users\strau\source\repos\Lab5\obj\Debug\netcoreapp3.1\Lab5.genruntimeconfig.cache
