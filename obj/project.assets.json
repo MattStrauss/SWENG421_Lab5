@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\strau\\.nuget\\packages\\": {}
+    "C:\\Users\\moond\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\strau\\source\\repos\\Lab5\\Lab5.csproj",
+      "projectUniqueName": "C:\\Users\\moond\\Desktop\\C# Projects\\Lab5\\Lab5.csproj",
       "projectName": "Lab5",
-      "projectPath": "C:\\Users\\strau\\source\\repos\\Lab5\\Lab5.csproj",
-      "packagesPath": "C:\\Users\\strau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\strau\\source\\repos\\Lab5\\obj\\",
+      "projectPath": "C:\\Users\\moond\\Desktop\\C# Projects\\Lab5\\Lab5.csproj",
+      "packagesPath": "C:\\Users\\moond\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\moond\\Desktop\\C# Projects\\Lab5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\strau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\moond\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
